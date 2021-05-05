@@ -5,6 +5,7 @@
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "serve": "vite preview",
+    "deploy": "bash deploy.sh",
     "start": "vite"
   },
   "dependencies": {

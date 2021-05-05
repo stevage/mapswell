@@ -1,6 +1,7 @@
 <template lang="pug">
 .container.mx-auto
   img.mx-auto(src="./assets/mapswell-logo.png")
+  p In progress.
 </template>
 
 <script lang="ts">
